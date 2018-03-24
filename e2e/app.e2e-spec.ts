@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('employeepanel App', () => {
+describe('angular-firebase-employeepanel App', () => {
   let page: AppPage;
 
   beforeEach(() => {
